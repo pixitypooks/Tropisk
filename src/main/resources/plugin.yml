@@ -1,0 +1,5 @@
+name: Tropisk
+version: 1.0.0
+main: net.tropixmc.tropisk.Tropisk
+api-version: 1.21.10
+depend: [Skript]
